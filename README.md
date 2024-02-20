@@ -1,6 +1,6 @@
 # Flexible_Endoscopy
 
-The Matlab code is focus on 3D image reconstruction of the image gained by the flexible endoscopy.  The projector is treated as an "inverse camera", project structured light, obtain the depth information of the object, and then carry out three-dimensional reconstruction. The code is tested on 
+Flexible endoscopes are an ideal instrument for observing the inner tissue of patients. In this project, SolidWorks is utilzed to recreate the optics structure of the common flexible endoscope. Additionally, the MATLAB program enables the 3D reconstruction of images captured using flexible endoscopes. This new design and development enhance the endoscope's capability to construct a three-dimensional image of the inner tissue.
 
 ## Solidworks
 

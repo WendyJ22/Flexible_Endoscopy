@@ -4,7 +4,7 @@ The Matlab code is focus on 3D image reconstruction of the image gained by the f
 
 ## Solidworks
 
-The new design of the flexible endoscopy is by focusing on improving the probe of the endoscope, so that the endoscope can construct three-dimensional images through structured light projector.
+New designs for flexible endoscopes focus on improving the endoscope's probe, allowing the endoscope to construct a three-dimensional image through a structured light projector.
 
 ## Matlab
 The Matlab code is focus on 3D image reconstruction of the image gained by the flexible endoscopy.  The projector is treated as an "inverse camera", project structured light, obtain the depth information of the object, and then carry out three-dimensional reconstruction.  
